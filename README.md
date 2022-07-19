@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Moyosi
-- 🌱 I’m currently learning basic python   
+- 🌱 I’m currently learning basic python 
+I am trying to improve my skills by posting code on my public repository pleae help me by checking them out at Moyosi/Moyosi
 
 <!---
 Moyosi/Moyosi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
